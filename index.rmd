@@ -1,0 +1,12 @@
+---
+title: "10:00 Section"
+author: "Micheal Rekitt"
+date: "October 15, 2017"
+output: html_document
+---
+Here is some arithmetic:
+```{r}
+x<-7
+y<-9
+x-cos(y)
+```
